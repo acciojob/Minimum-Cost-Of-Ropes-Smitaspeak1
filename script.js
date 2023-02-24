@@ -13,3 +13,4 @@
       cost += res;
       inputArray[inputArray.length] = res; }
   document.getElementById("result").innerHTML = cost;
+	}
